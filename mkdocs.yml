@@ -86,3 +86,8 @@ nav:
   - Python Language Rules:
     - Lint: lint.md
     - Imports: imports.md
+    - Packages: packages.md
+    - Exceptions: exceptions.md
+    - Mutable Global State: mutable-global-state.md
+    - Nested/Local/Inner Classes and Functions: nested-local-inner-classes-and-functions.md
+    - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
