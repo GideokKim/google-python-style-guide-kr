@@ -1,13 +1,17 @@
 ## 2.3 Packages
+
 Import each module using the full pathname location of the module.
 
 ### 2.3.1 Pros
+
 Avoids conflicts in module names or incorrect imports due to the module search path not being what the author expected. Makes it easier to find modules.
 
 ### 2.3.2 Cons
+
 Makes it harder to deploy code because you have to replicate the package hierarchy. Not really a problem with modern deployment mechanisms.
 
 ### 2.3.3 Decision
+
 All new code should import each module by its full package name.
 
 Imports should be as follows:

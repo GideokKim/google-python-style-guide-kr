@@ -13,19 +13,19 @@ theme:
   name: material
   language: ko
   features:
-    - navigation.tabs           # 상단 탭 네비게이션
-    - navigation.sections       # 섹션 접기/펼치기
-    - navigation.top           # "맨 위로" 버튼
-    - search.suggest          # 검색 제안
-    - search.highlight        # 검색 결과 하이라이트
-    - content.tabs.link       # 탭 간 이동
-    - content.code.copy       # 코드 복사 버튼
-  
+    - navigation.tabs # 상단 탭 네비게이션
+    - navigation.sections # 섹션 접기/펼치기
+    - navigation.top # "맨 위로" 버튼
+    - search.suggest # 검색 제안
+    - search.highlight # 검색 결과 하이라이트
+    - content.tabs.link # 탭 간 이동
+    - content.code.copy # 코드 복사 버튼
+
   # 폰트 설정
   font:
     text: Nanum Gothic
     code: Nanum Gothic Coding
-  
+
   # 색상 테마
   palette:
     # Light mode
@@ -36,7 +36,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-    # Dark mode    
+    # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
@@ -47,26 +47,26 @@ theme:
 
 # Extensions
 markdown_extensions:
-  - admonition              # 경고, 참고 등 박스
-  - pymdownx.details        # 접기/펼치기
-  - pymdownx.superfences    # 다양한 코드 블록
-  - pymdownx.highlight:     # 코드 하이라이팅
+  - admonition # 경고, 참고 등 박스
+  - pymdownx.details # 접기/펼치기
+  - pymdownx.superfences # 다양한 코드 블록
+  - pymdownx.highlight: # 코드 하이라이팅
       anchor_linenums: true
-  - pymdownx.inlinehilite  # 인라인 코드 하이라이팅
-  - pymdownx.snippets      # 코드 스니펫
-  - pymdownx.tabbed:       # 탭
-      alternate_style: true 
-  - attr_list              # 이미지 속성
-  - md_in_html            # HTML 내 마크다운
-  - footnotes             # 각주
-  - tables                # 테이블
-  - toc:                  # 목차
+  - pymdownx.inlinehilite # 인라인 코드 하이라이팅
+  - pymdownx.snippets # 코드 스니펫
+  - pymdownx.tabbed: # 탭
+      alternate_style: true
+  - attr_list # 이미지 속성
+  - md_in_html # HTML 내 마크다운
+  - footnotes # 각주
+  - tables # 테이블
+  - toc: # 목차
       permalink: true
 
 # Plugins
 plugins:
   - search:
-      lang: 
+      lang:
         - en
         - ko
 
@@ -84,5 +84,7 @@ docs_dir: google python style guide
 nav:
   - 배경: background.md
   - Python Language Rules:
-    - Lint: lint.md
-    - Imports: imports.md
+      - Lint: lint.md
+      - Imports: imports.md
+      - Index: index.md
+      - Exceptions: exceptions.md
