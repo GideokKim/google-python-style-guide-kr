@@ -88,3 +88,5 @@ nav:
     - Imports: imports.md
     - Packages: packages.md
     - Mutable Global State: mutable-global-state.md
+  - Appendix:
+    - 사전: appendix/dictionary.md
