@@ -24,8 +24,17 @@ Google Python Style Guide 한글 번역 프로젝트에 관심을 가져주셔�
 ### 3. 🎯 작업 시작하기
 1. 메인 브랜치를 최신 상태로 유지합니다:
    ```bash
+   # upstream의 변경사항 가져오기
+   git fetch upstream
+
+   # 로컬 main 브랜치로 이동
    git checkout main
-   git pull upstream main
+
+   # upstream의 변경사항을 로컬 main에 병합
+   git merge upstream/main
+
+   # 변경사항을 fork한 저장소에 반영
+   git push origin main
    ```
 2. 새로운 브랜치를 생성합니다:
    ```bash
