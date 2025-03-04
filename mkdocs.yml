@@ -92,8 +92,12 @@ nav:
     - Mutable Global State: mutable-global-state.md
     - Inner Classes and Functions: Inner_Classes_and_Functions.md
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
+<<<<<<< HEAD
     - Default Iterators and Operators: default-iterators-and-operators.md
   - Python Style Rules :
     - Conditional Imports : Conditional Imports.md
   - Appendix:
     - 사전: appendix/dictionary.md
+=======
+    - Default Iterators and Operators: default-iterators-and-operators.md
+>>>>>>> 9c97caa (mkdocs.yml 변경 사항 저장)
