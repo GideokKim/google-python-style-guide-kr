@@ -90,3 +90,4 @@ nav:
     - Mutable Global State: mutable-global-state.md
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
     - Default Iterators and Operators: default-iterators-and-operators.md
+    - Conditional Expressions: Conditional Expressions.md
