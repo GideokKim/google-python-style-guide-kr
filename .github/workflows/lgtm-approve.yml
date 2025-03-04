@@ -6,12 +6,9 @@ on:
 
 jobs:
   approve:
-    if: contains(github.event.comment.body, '/lgtm')
+    if: contains(github.event.comment.body, '/approve')
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
-        uses: actions/checkout@v2
-
       - name: Approve Pull Request
         run: |
           PR_NUMBER=${{ github.event.issue.number }}
