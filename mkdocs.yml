@@ -84,6 +84,9 @@ docs_dir: google python style guide
 nav:
   - 배경: background.md
   - Python Language Rules:
-      - Lint: lint.md
-      - Imports: imports.md
-      - Conditional Expressions: Conditional Expressions.md
+    - Lint: lint.md
+    - Imports: imports.md
+    - Packages: packages.md
+    - Mutable Global State: mutable-global-state.md
+    - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
+    - Conditional Expressions: Conditional Expressions.md
