@@ -88,5 +88,6 @@ nav:
     - Imports: imports.md
     - Packages: packages.md
     - Mutable Global State: mutable-global-state.md
+    - Inner Classes and Functions: Inner_Classes_and_Functions.md
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
     - Default Iterators and Operators: default-iterators-and-operators.md
