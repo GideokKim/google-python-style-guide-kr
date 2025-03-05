@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   mkdocs:
+    if: github.repository == 'GideokKim/google-python-style-guide-kr'  # upstream 저장소 확인
     runs-on: ubuntu-24.04
     environment:
       name: github-pages
