@@ -2,6 +2,7 @@ mkdocs
 mkdocs-material>=9.0
 mkdocs-material-extensions
 pymdown-extensions
+markdown-callouts
 
 markdown
 Pygments # https://pygments.org/
