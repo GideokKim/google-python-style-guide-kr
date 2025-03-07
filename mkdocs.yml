@@ -88,6 +88,7 @@ nav:
     - Lint: lint.md
     - Imports: imports.md
     - Packages: packages.md
+    - Exceptions: exceptions.md
     - Mutable Global State: mutable-global-state.md
     - Inner Classes and Functions: Inner_Classes_and_Functions.md
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
