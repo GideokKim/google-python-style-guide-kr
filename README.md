@@ -62,6 +62,21 @@ repository/
 - 🌟 **N번째 스타**: ?
 - 🌙 **조용한 기여자**: ?
 
+## 📌 사전 및 용어 관리
+
+### 📖 사전
+
+번역의 일관성을 유지하기 위해 사전을 활용합니다.
+
+- 새로운 용어나 수정이 필요한 경우, 아래 링크에서 용어를 기입해 주세요.
+  - 사전 등록: [Google python style guide 번역 용어 수집](https://forms.gle/EqLQwYh74NBBj3oF9)
+- 기존 번역 용어를 확인하려면 아래 링크를 참고하세요.
+  - 사전 조회: [사전에서 번역 용어 확인](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRD6I_ELlSzmkNvfn-JVvTjIVbX91RA4g82AjYUogsvuoLLspPqO4PEKZrSwDUuTDgFwxkk1gSA1eW/pubhtml?gid=1120400211&single=true)
+
+### [참고] ✍️ 참가 가이드
+
+Google Python Style Guide 번역 가이드 및 용어 사전 안내(PARTICIPATION_GUIDE.md)
+
 ## 📄 라이선스
 
 이 프로젝트는 [Apache License 2.0](LICENSE)을 따릅니다. 원문 스타일 가이드의 저작권은 Google에 있습니다.
