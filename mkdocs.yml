@@ -7,15 +7,6 @@ repo_name: GideokKim/google-python-style-guide-kr
 repo_url: https://github.com/GideokKim/google-python-style-guide-kr
 
 copyright: "© 2025 Google - Licensed under Apache License 2.0"
-site_name: "Google Python Style Guide - 한글 번역"
-site_description: "Google Python Style Guide의 한글 번역 프로젝트"
-site_author: Gideok Kim
-site_url: https://gideokkim.github.io/google-python-style-guide-kr/
-
-repo_name: GideokKim/google-python-style-guide-kr
-repo_url: https://github.com/GideokKim/google-python-style-guide-kr
-
-copyright: "© 2025 Google - Licensed under Apache License 2.0"
 
 # Theme 설정
 theme:
