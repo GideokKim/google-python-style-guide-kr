@@ -94,7 +94,8 @@ nav:
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
     - Default Iterators and Operators: default-iterators-and-operators.md
     - Conditional Expressions: Conditional Expressions.md
-    - Properties: properties.md~
+    - Properties: properties.md
+    - Generators: generators.md
   - Python Style Rules :
     - Conditional Imports : Conditional Imports.md
   - Appendix:
