@@ -39,7 +39,7 @@ repository/
 | 1 Background            | ✅   | 2025-01-14 |
 | 2 Python Language Rules | 🔨   | 진행중     |
 | 3 Python Style Rules    | 🔨   | 진행중     |
-| 4 Parting Words         | ❌   | -          |
+| 4 Parting Words         | ✅   | 2025-05-06 |
 
 > [!NOTE]
 > 번역 상태는 계속 업데이트될 예정입니다.
@@ -98,18 +98,78 @@ Google Python Style Guide 번역 가이드 및 용어 사전 안내(PARTICIPATIO
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/GideokKim"><img src="https://avatars.githubusercontent.com/u/79832255?v=4" width="100px;" alt="GideokKim"/><br /><sub><b>GideokKim</b></sub></a><br /><a href="#maintenance-GideokKim" title="Maintenance">🚧</a></td>
-      <td align="center"><a href="https://gemini.google.com/"><img src="https://github.com/user-attachments/assets/27b6ffe2-3713-4499-8aef-93a6f0b6e777" width="100px;" alt="Gemini"/><br /><sub><b>Gemini</b></sub></a><br /><a href="#code-assistant" title="Code Assistant">🤖</a></td>
-      <td align="center"><a href="https://github.com/Yoonsoyoung02"><img src="https://avatars.githubusercontent.com/u/192282690?v=4" width="100px;" alt="Yoonsoyoung02"/><br /><sub><b>Yoonsoyoung02</b></sub></a><br /><a href="#issue-maker" title="Issue Maker">✨</a></td>
-      <td align="center"><a href="https://github.com/YiHeeJu"><img src="https://avatars.githubusercontent.com/u/177398433?v=4" width="100px;" alt="Yi HeeJu"/><br /><sub><b>Yi HeeJu</b></sub></a><br /><a href="#speed-runner" title="Speed Runner">🚀</a></td>
-      <td align="center"><a href="https://github.com/zer0ken"><img src="https://avatars.githubusercontent.com/u/31297454?v=4" width="100px;" alt="zer0ken"/><br /><sub><b>zer0ken</b></sub></a><br /><a href="#sprout-mentor" title="Sprout Mentor">🌱</a></td>
-      <td align="center"><a href="https://github.com/Kristyn-Yoon"><img src="https://avatars.githubusercontent.com/u/189988993?v=4" width="100px;" alt="Kristyn Yoon"/><br /><sub><b>Kristyn Yoon</b></sub></a><br /><a href="#contributor" title="Contributor">🤝</a></td>
-      <td align="center"><a href="https://github.com/Bosongsae"><img src="https://avatars.githubusercontent.com/u/192054862?v=4" width="100px;" alt="Bosongsae"/><br /><sub><b>Bosongsae</b></sub></a><br /><a href="#contributor" title="Contributor">🤝</a></td>
-      <td align="center"><a href="https://github.com/codingorijazz"><img src="https://avatars.githubusercontent.com/u/178161492?v=4" width="100px;" alt="codingorijazz"/><br /><sub><b>codingorijazz</b></sub></a><br /><a href="#contributor" title="Contributor">🤝</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GideokKim">
+        <img src="https://avatars.githubusercontent.com/u/79832255?v=4" width="80px;" alt="GideokKim"/><br />
+        <sub><b>GideokKim</b></sub>
+      </a>
+      <br />🚧
+    </td>
+    <td align="center">
+      <a href="https://gemini.google.com/">
+        <img src="https://github.com/user-attachments/assets/27b6ffe2-3713-4499-8aef-93a6f0b6e777" width="80px;" alt="Gemini"/><br />
+        <sub><b>Gemini</b></sub>
+      </a>
+      <br />🤖
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yoonsoyoung02">
+        <img src="https://avatars.githubusercontent.com/u/192282690?v=4" width="80px;" alt="Yoonsoyoung02"/><br />
+        <sub><b>Yoonsoyoung02</b></sub>
+      </a>
+      <br />✨
+    </td>
+    <td align="center">
+      <a href="https://github.com/YiHeeJu">
+        <img src="https://avatars.githubusercontent.com/u/177398433?v=4" width="80px;" alt="Yi HeeJu"/><br />
+        <sub><b>Yi HeeJu</b></sub>
+      </a>
+      <br />🚀
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zer0ken">
+        <img src="https://avatars.githubusercontent.com/u/31297454?v=4" width="80px;" alt="zer0ken"/><br />
+        <sub><b>zer0ken</b></sub>
+      </a>
+      <br />🌱
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kristyn-Yoon">
+        <img src="https://avatars.githubusercontent.com/u/189988993?v=4" width="80px;" alt="Kristyn Yoon"/><br />
+        <sub><b>Kristyn Yoon</b></sub>
+      </a>
+      <br />🤝
+    </td>
+    <td align="center">
+      <a href="https://github.com/Bosongsae">
+        <img src="https://avatars.githubusercontent.com/u/192054862?v=4" width="80px;" alt="Bosongsae"/><br />
+        <sub><b>Bosongsae</b></sub>
+      </a>
+      <br />🤝
+    </td>
+    <td align="center">
+      <a href="https://github.com/codingorijazz">
+        <img src="https://avatars.githubusercontent.com/u/178161492?v=4" width="80px;" alt="codingorijazz"/><br />
+        <sub><b>codingorijazz</b></sub>
+      </a>
+      <br />🤝
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yongsuk204">
+        <img src="https://avatars.githubusercontent.com/u/192054928?v=4" width="80px;" alt="yongsuk204"/><br />
+        <sub><b>yongsuk204</b></sub>
+      </a>
+      <br />🤝
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
