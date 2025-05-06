@@ -96,7 +96,9 @@ nav:
     - Conditional Expressions: Conditional Expressions.md
     - Properties: properties.md
     - Generators: generators.md
+    - Default Argument Values : default-argument-values.md
   - Python Style Rules :
     - Conditional Imports : Conditional Imports.md
   - Appendix:
     - 사전: appendix/dictionary.md
+
