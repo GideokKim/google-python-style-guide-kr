@@ -13,9 +13,9 @@ theme:
   name: material
   language: ko
   features:
-    - navigation.tabs           # 상단 탭 네비게이션
-    - navigation.sections       # 섹션 접기/펼치기
-    - navigation.top           # "맨 위로" 버튼
+    - navigation.tabs         # 상단 탭 네비게이션
+    - navigation.sections     # 섹션 접기/펼치기
+    - navigation.top          # "맨 위로" 버튼
     - search.suggest          # 검색 제안
     - search.highlight        # 검색 결과 하이라이트
     - content.tabs.link       # 탭 간 이동
@@ -57,11 +57,12 @@ markdown_extensions:
   - pymdownx.tabbed:       # 탭
       alternate_style: true 
   - attr_list              # 이미지 속성
-  - md_in_html            # HTML 내 마크다운
-  - footnotes             # 각주
-  - tables                # 테이블
-  - toc:                  # 목차
+  - md_in_html             # HTML 내 마크다운
+  - footnotes              # 각주
+  - tables                 # 테이블
+  - toc:                   # 목차
       permalink: true
+  - github-callouts
 
 # Plugins
 plugins:
@@ -87,7 +88,17 @@ nav:
     - Lint: lint.md
     - Imports: imports.md
     - Packages: packages.md
+    - Exceptions: exceptions.md
     - Mutable Global State: mutable-global-state.md
     - Inner Classes and Functions: Inner_Classes_and_Functions.md
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
     - Default Iterators and Operators: default-iterators-and-operators.md
+    - Conditional Expressions: Conditional Expressions.md
+    - Properties: properties.md
+    - Generators: generators.md
+    - Default Argument Values : default-argument-values.md
+  - Python Style Rules :
+    - Conditional Imports : Conditional Imports.md
+  - Appendix:
+    - 사전: appendix/dictionary.md
+
