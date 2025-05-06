@@ -84,21 +84,23 @@ extra:
 docs_dir: google python style guide
 nav:
   - 배경: background.md
-  - Python Language Rules:
+  - Python 언어 규칙:
     - Lint: lint.md
     - Imports: imports.md
     - Packages: packages.md
     - Exceptions: exceptions.md
     - Mutable Global State: mutable-global-state.md
-    - Inner Classes and Functions: Inner_Classes_and_Functions.md
+    - Nested/Local/Inner Classes and Functions: Inner_Classes_and_Functions.md
     - Comprehensions & Generator Expressions: comprehensions-&-generator-expressions.md
     - Default Iterators and Operators: default-iterators-and-operators.md
-    - Conditional Expressions: Conditional Expressions.md
-    - Properties: properties.md
     - Generators: generators.md
+    - Conditional Expressions: Conditional Expressions.md
     - Default Argument Values : default-argument-values.md
-  - Python Style Rules :
+    - Properties: properties.md
+  - Python 스타일 규칙:
     - Conditional Imports : Conditional Imports.md
-  - Appendix:
+  - 마무리 글:
+    - Parting Words: parting-words.md
+  - 부록:
     - 사전: appendix/dictionary.md
 
