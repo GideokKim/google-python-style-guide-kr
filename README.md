@@ -107,6 +107,7 @@ Google Python Style Guide 번역 가이드 및 용어 사전 안내(PARTICIPATIO
       <td align="center"><a href="https://github.com/zer0ken"><img src="https://avatars.githubusercontent.com/u/31297454?v=4" width="100px;" alt="zer0ken"/><br /><sub><b>zer0ken</b></sub></a><br /><a href="#sprout-mentor" title="Sprout Mentor">🌱</a></td>
       <td align="center"><a href="https://github.com/Kristyn-Yoon"><img src="https://avatars.githubusercontent.com/u/189988993?v=4" width="100px;" alt="Kristyn Yoon"/><br /><sub><b>Kristyn Yoon</b></sub></a><br /><a href="#contributor" title="Contributor">🤝</a></td>
       <td align="center"><a href="https://github.com/Bosongsae"><img src="https://avatars.githubusercontent.com/u/192054862?v=4" width="100px;" alt="Bosongsae"/><br /><sub><b>Bosongsae</b></sub></a><br /><a href="#contributor" title="Contributor">🤝</a></td>
+      <td align="center"><a href="https://github.com/codingorijazz"><img src="https://avatars.githubusercontent.com/u/178161492?v=4" width="100px;" alt="codingorijazz"/><br /><sub><b>codingorijazz</b></sub></a><br /><a href="#contributor" title="Contributor">🤝</a></td>
     </tr>
   </tbody>
 </table>
